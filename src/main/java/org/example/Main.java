@@ -12,4 +12,12 @@ public class Main {
         }
         return false;
     }
+
+
+    public static boolean binpoisk(int [][] matrica,int chislo){
+
+    }
+
+
+
 }
